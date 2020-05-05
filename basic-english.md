@@ -8,18 +8,18 @@ Most common English words in Toki pona
  - get: kama jo
  - give: pana
  - go: tawa
- - keep
+ - keep: awen
  - let
  - make: pali
  - put
- - seem
+ - seem: lukin
  - take
  - be
  - do
  - have: jo
  - say: toki
- - see
- - send
+ - see: lukin
+ - send: pana
  - may
  - will
  - about
@@ -28,7 +28,7 @@ Most common English words in Toki pona
  - against
  - among
  - at
- - before
+ - before: pini
  - between
  - by
  - down: anpa
@@ -36,19 +36,19 @@ Most common English words in Toki pona
  - in: lon
  - off
  - on: lon
- - over
+ - over: pini
  - through
  - to: tawa
  - under
- - up
+ - up: sewi
  - with: kepeken
- - as
+ - as: sama
  - for
  - of
  - till
  - than
- - a: -
- - the: -
+ - a: e
+ - the: e
  - all: ale
  - any
  - every: ale
@@ -64,10 +64,10 @@ Most common English words in Toki pona
  - he: sina
  - you: sina
  - who: jan seme
- - and
+ - and: en
  - because
- - but
- - or
+ - but: taso
+ - or: anu
  - if
  - though
  - while
@@ -85,7 +85,7 @@ Most common English words in Toki pona
  - out
  - still
  - then
- - there
+ - there: ni
  - together
  - well: pona
  - almost
@@ -116,7 +116,7 @@ Most common English words in Toki pona
  - air: kon
  - amount 
  - amusement: musi
- - animal 
+ - animal: soweli
  - answer 
  - apparatus 
  - approval 
@@ -126,8 +126,8 @@ Most common English words in Toki pona
  - attempt 
  - attention 
  - attraction 
- - authority 
- - back 
+ - authority: lawa
+ - back: monsi
  - balance 
  - base 
  - behavior 
@@ -140,14 +140,14 @@ Most common English words in Toki pona
  - body: sijelo
  - brass 
  - bread: pan
- - breath 
+ - breath: kon
  - brother: jan sama mije
  - building: tomo
  - burn 
  - burst 
  - business: esun
  - butter 
- - canvas 
+ - canvas: lipu
  - care 
  - cause 
  - chalk 
@@ -156,14 +156,14 @@ Most common English words in Toki pona
  - cloth: len
  - coal 
  - color: kule
- - comfort 
+ - comfort: pona
  - committee 
  - company: kulupu jan
  - comparison 
  - competition 
  - condition 
  - connection 
- - control 
+ - control: lawa
  - cook 
  - copper 
  - copy 
@@ -187,9 +187,9 @@ Most common English words in Toki pona
  - debt 
  - decision: ~ wile
  - degree 
- - design 
- - desire 
- - destruction 
+ - design: sitelen
+ - desire: wile
+ - destruction: pakala
  - detail 
  - development 
  - digestion 
@@ -200,12 +200,12 @@ Most common English words in Toki pona
  - disgust 
  - distance 
  - distribution 
- - division 
+ - division: tu
  - doubt 
  - drink: telo
  - driving 
  - dust 
- - earth 
+ - earth: ma
  - edge 
  - education 
  - effect 
@@ -220,13 +220,13 @@ Most common English words in Toki pona
  - expert: jan sona
  - fact 
  - fall 
- - family 
+ - family: kulupu
  - father: mama mije
  - fear 
  - feeling: pilin
  - fiction: sitelen musi
- - field 
- - fight 
+ - field: ma
+ - fight: utala
  - fire: seli
  - flame: seli lili
  - flight: tawa lon kon
@@ -265,27 +265,27 @@ Most common English words in Toki pona
  - industry 
  - ink 
  - insect: pipi
- - instrument 
+ - instrument: ilo
  - insurance 
  - interest: wile sona
  - invention 
- - iron 
+ - iron: kiwen
  - jelly 
  - join 
  - journey 
  - judge 
  - jump 
  - kick 
- - kiss 
+ - kiss: uta
  - knowledge: sona
- - land 
+ - land: ma
  - language: toki
  - laugh 
- - law 
- - lead 
+ - law: lawa
+ - lead: lawa
  - learning: kama sona
- - leather 
- - letter 
+ - leather: len
+ - letter: lipu
  - level 
  - lift 
  - light: suno
@@ -295,23 +295,23 @@ Most common English words in Toki pona
  - list 
  - look: lukin
  - loss 
- - love 
- - machine 
+ - love: olin
+ - machine: ilo
  - man: jan
  - manager: jan lawa
- - mark 
+ - mark: sitelen
  - market: esun
  - mass 
  - meal: moku
  - measure 
- - meat 
+ - meat: moku
  - meeting 
  - memory 
  - metal 
  - middle 
  - milk: telo walo, telo walo pi soweli Kawa
  - mind 
- - mine 
+ - mine: mi
  - minute: tenpo lili ilo
  - mist 
  - money: mani
@@ -330,7 +330,7 @@ Most common English words in Toki pona
  - noise: kalama ike
  - note 
  - number: nanpa
- - observation 
+ - observation: lukin
  - offer 
  - oil 
  - operation 
@@ -346,7 +346,7 @@ Most common English words in Toki pona
  - part 
  - paste 
  - payment 
- - peace 
+ - peace: pona
  - person: jan
  - place 
  - plant: kasi
@@ -362,13 +362,13 @@ Most common English words in Toki pona
  - price 
  - print 
  - process 
- - produce 
+ - produce: pali
  - profit 
  - property 
  - prose 
- - protest 
+ - protest: utala
  - pull 
- - punishment 
+ - punishment: pakala 
  - purpose 
  - push 
  - quality 
@@ -388,7 +388,7 @@ Most common English words in Toki pona
  - request 
  - respect 
  - rest 
- - reward 
+ - reward: mani
  - rhythm 
  - rice 
  - river: nasin telo
@@ -396,7 +396,7 @@ Most common English words in Toki pona
  - roll 
  - room: tomo
  - rub 
- - rule 
+ - rule: lawa
  - run 
  - salt 
  - sand 
@@ -407,8 +407,8 @@ Most common English words in Toki pona
  - secretary 
  - selection 
  - self 
- - sense 
- - servant 
+ - sense: pilin
+ - servant: jan anpa
  - sex: unpa
  - shade 
  - shake 
@@ -431,7 +431,7 @@ Most common English words in Toki pona
  - sneeze 
  - snow 
  - soap 
- - society 
+ - society: kulupu
  - son 
  - song 
  - sort 
@@ -447,7 +447,7 @@ Most common English words in Toki pona
  - stitch 
  - stone: kiwen
  - stop: pini
- - story 
+ - story: toki
  - stretch 
  - structure 
  - substance 
@@ -457,7 +457,7 @@ Most common English words in Toki pona
  - support 
  - surprise 
  - swim: tawa lon telo
- - system 
+ - system: lawa
  - talk: toki
  - taste 
  - tax 
@@ -470,9 +470,9 @@ Most common English words in Toki pona
  - thunder 
  - time: tenpo
  - tin 
- - top 
+ - top: lawa
  - touch: pilin
- - trade 
+ - trade: esun
  - transport 
  - trick 
  - trouble 
@@ -482,10 +482,10 @@ Most common English words in Toki pona
  - use: kepeken
  - value 
  - verse 
- - vessel 
- - view 
- - voice 
- - walk 
+ - vessel: poki
+ - view: lukin
+ - voice: kalama
+ - walk: tawa
  - war 
  - wash 
  - waste 
@@ -496,7 +496,7 @@ Most common English words in Toki pona
  - weather 
  - week: tenpo esun
  - weight 
- - wind 
+ - wind: kon
  - wine: telo nasa loje
  - winter: tenpo lete
  - woman: meli
@@ -511,17 +511,17 @@ Most common English words in Toki pona
 # Things - 200 Picturable words
 
  - angle
- - ant
- - apple
+ - ant: pipi
+ - apple: kili
  - arch
  - arm: luka
  - army
  - baby: jan lili
- - bag
+ - bag: poki
  - ball: sike
  - band
  - basin
- - basket
+ - basket: poki
  - bath
  - bed: supa
  - bee
@@ -532,9 +532,9 @@ Most common English words in Toki pona
  - board
  - boat: tomo tawa lon telo
  - bone
- - book
+ - book: lipu
  - boot
- - bottle
+ - bottle: poki
  - box: poki
  - boy: mije lili
  - brain
@@ -549,7 +549,7 @@ Most common English words in Toki pona
  - cake
  - camera
  - card: lipu
- - cart
+ - cart: poki kama
  - carriage
  - cat
  - chain
@@ -581,10 +581,10 @@ Most common English words in Toki pona
  - face: sinpin
  - farm
  - feather
- - finger
+ - finger: luka
  - fish: kala
  - flag: lipu ma
- - floor
+ - floor:
  - fly: tawa lon kon
  - foot: nuka
  - fork: ilo moku
@@ -682,7 +682,7 @@ Most common English words in Toki pona
  - stem
  - stick: palisa
  - stocking
- - stomach
+ - stomach: insa
  - store
  - street
  - sun: suno
@@ -698,29 +698,29 @@ Most common English words in Toki pona
  - town: ma tomo
  - train
  - tray
- - tree
+ - tree: kasi
  - trousers
  - umbrella
- - wall
- - watch
- - wheel
+ - wall: sinpin
+ - watch: lukin
+ - wheel: sike
  - whip
  - whistle
  - window: lupa
  - wing
- - wire
+ - wire: linja
  - worm .
 
 # Qualities - 100 General
 
- - able
+ - able: ken
  - acid
  - angry: pilin utala
  - automatic
  - beautiful
  - black: pimeja
  - boiling
- - bright
+ - bright: suno
  - broken: pakala
  - brown
  - cheap
@@ -730,25 +730,25 @@ Most common English words in Toki pona
  - clear
  - common
  - complex
- - conscious
+ - conscious: sona
  - cut
  - deep
  - dependent
  - early
  - elastic
  - electric
- - equal
+ - equal: sama
  - fat
  - fertile
- - first
+ - first: wan
  - fixed
  - flat
  - free
  - frequent
  - full
  - general
- - good
- - great
+ - good: pona
+ - great: pona mute
  - grey/gray
  - hanging
  - happy
